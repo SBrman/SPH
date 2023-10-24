@@ -1,0 +1,17 @@
+﻿  Source.cpp
+F:\class_s6\project2b\Project2b\Source.cpp(18,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\class_s6\project2b\Project2b\Source.cpp(123,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\class_s6\project2b\Project2b\Source.cpp(124,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\class_s6\project2b\Project2b\Source.cpp(146,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project2b\Project2b\Source.cpp(193,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\class_s6\project2b\Project2b\Source.cpp(194,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\class_s6\project2b\Project2b\Source.cpp(243,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\class_s6\project2b\Project2b\Source.cpp(243,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\class_s6\project2b\Project2b\Source.cpp(246,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\class_s6\project2b\Project2b\Source.cpp(246,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  0 of 140 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project2b.vcxproj -> F:\class_s6\project2b\Project2b\x64\Release\Project2b.exe

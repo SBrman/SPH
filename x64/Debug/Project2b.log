@@ -1,0 +1,10 @@
+﻿  Source.cpp
+F:\class_s6\project2b\Project2b\Source.cpp(19,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\class_s6\project2b\Project2b\Source.cpp(120,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\class_s6\project2b\Project2b\Source.cpp(121,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\class_s6\project2b\Project2b\Source.cpp(153,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project2b\Project2b\Source.cpp(243,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\class_s6\project2b\Project2b\Source.cpp(244,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\class_s6\project2b\Project2b\Source.cpp(290,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\class_s6\project2b\Project2b\Source.cpp(290,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Project2b.vcxproj -> F:\class_s6\project2b\Project2b\x64\Debug\Project2b.exe
